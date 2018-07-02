@@ -1,17 +1,17 @@
 {
-  "name": "ravencore-build",
+  "name": "btxcore-build",
   "version": "1.0.3",
-  "description": "A helper for common tasks to build ravencore modules'",
+  "description": "A helper for common tasks to build btxcore modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/underdarkskies/ravencore-build"
+    "url": "git://github.com/BTXexplorer/btxcore-build"
   },
   "keywords": [
-    "ravencore"
+    "btxcore"
   ],
   "contributors": [
     {
@@ -21,9 +21,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/underdarkskies/ravencore-build/issues"
+    "url": "https://github.com/BTXexplorer/btxcore-build/issues"
   },
-  "homepage": "https://github.com/underdarkskies/ravencore-build",
+  "homepage": "https://github.com/BTXexplorer/btxcore-build",
   "dependencies": {
     "brfs": "^1.4.3",
     "browserify": "^13.1.1",
